@@ -27,6 +27,7 @@ This project analyzes customer behavior using historical telecom customer data t
 - Git & GitHub
 
 ## 📊 Dashboard
+https://onlinepgc-my.sharepoint.com/:u:/g/personal/isbicspm2583423_pgc_edu_pk/IQBsOLe-WZVjT7bQ9jmjZlxpAbtgXo790XmrR2k_qIcIP50?e=qYDQgn
 
 ### Key Performance Indicators (KPIs)
 
